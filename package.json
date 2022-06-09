@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "scripts": "^0.1.0"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "name": "colaborativo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dridre/COLABORATIVO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dridre/COLABORATIVO/issues"
+  },
+  "homepage": "https://github.com/dridre/COLABORATIVO#readme",
+  "description": ""
+}
