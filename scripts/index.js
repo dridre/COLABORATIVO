@@ -38,6 +38,7 @@ for (let index2 = division; index2 > 0; index2--) {
     console.log(index2)
 
     imagenes2.innerHTML += '<img src="/images/rojo.png" alt="" onclick="changeImage()" id="image" class="">'
+    
 
 
 }
