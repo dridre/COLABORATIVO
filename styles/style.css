@@ -3,3 +3,13 @@ body{
     color: white;
     
 }
+
+.conjunto{
+    display: flex;
+}
+.conjunto2{
+    display: flex;
+}
+#image{
+    margin: 15px;
+}
