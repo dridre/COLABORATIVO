@@ -19,7 +19,7 @@ let parejas = parseInt(pareja) * 2
 console.log(parejas)
 let division = parseInt(pareja)
 console.log(division)
-
+//Por Samuel
 
 
 let imagenes = document.querySelector("div.conjunto")
